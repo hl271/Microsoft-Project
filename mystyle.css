@@ -1,0 +1,38 @@
+.container {}
+
+body{ background:white; margin:0}
+ul.mainmenu{text-align:left; display:inline; margin:0; padding:0; list-style:none;}
+ul.mainmenu li {display:inline-block; position:relative; padding: 7px 7px; background:white;}
+ul.mainmenu li a{ text-decoration: none; padding: 10px 10px;color: black;}
+ul.mainmenu li:hover {text-decoration:underline;background:white}
+ul.mainmenu li ul { padding: 0; position: absolute; top: 55px; left:0; width: 300px; display: none;}
+ul.mainmenu li ul li {background:#e5e5e5;; display: block}
+ul.mainmenu li ul li:hover { background:#E0E0E0;}
+ul.mainmenu li:hover ul { display:block; visibility:visible;}
+ul.mainmenu ul ul li {display:none; background:#e5e5e5;}
+ul.mainmenu ul li:hover li{display: block;}
+ul.mainmenu ul ul {left: 100%; top: 0%}
+.cart {float:right;padding-top:15px;}
+.footer{background-color:#f2f2f2; font-size:11px;}
+.footer li a,.footer li, .footer a {padding:5px; color:black}
+
+
+
+
+
+/*#brand {font-weight: bold; padding: 15px 15px 15px 20px;}
+#logo {float: left !important; padding: 10px 10px;}
+.navbar,.container-fluid,.navbar-default {background-color:white;border-color:white;}
+.border col-sm-2 {background-color:#f2f2f2;}
+
+/*#menu a {
+    background-color: white;
+    text-decoration: none;
+    padding-bottom: 0px;
+}
+#menu a:hover {
+    background-color: white;
+    border-bottom: black solid 1px;
+}
+
+#menu a:active { background-color: lightgray}*/
