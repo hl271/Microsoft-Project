@@ -2,43 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6dace61-b3e4-41f9-a662-7c7b103568f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Onenote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/earth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jumbotron.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/msCRM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/msStore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/office365doanhnghiep.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outlook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slide1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slide2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sway.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vs17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glyphicon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mswebhome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycustomclass.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mystyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webMS.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/icon (microsoft).jpg" afterPath="$PROJECT_DIR$/images/Home/icon (microsoft).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row1_col1.jxr" afterPath="$PROJECT_DIR$/images/Home/row1_col1.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row1_col2.jxr" afterPath="$PROJECT_DIR$/images/Home/row1_col2.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row1_col3.jxr" afterPath="$PROJECT_DIR$/images/Home/row1_col3.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row1_col4.jxr" afterPath="$PROJECT_DIR$/images/Home/row1_col4.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row2_col1.jxr" afterPath="$PROJECT_DIR$/images/Home/row2_col1.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row2_col2.jxr" afterPath="$PROJECT_DIR$/images/Home/row2_col2.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row2_col3.jxr" afterPath="$PROJECT_DIR$/images/Home/row2_col3.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/row2_col4.jxr" afterPath="$PROJECT_DIR$/images/Home/row2_col4.jxr" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/slide 1 (office 365) (1).png" afterPath="$PROJECT_DIR$/images/Home/slide 1 (office 365) (1).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/slide 1 (office 365) (2).png" afterPath="$PROJECT_DIR$/images/Home/slide 1 (office 365) (2).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/slide 1 (office 365) (3).png" afterPath="$PROJECT_DIR$/images/Home/slide 1 (office 365) (3).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/slide 1 (windows hello) (2).jpg" afterPath="$PROJECT_DIR$/images/Home/slide 1 (windows hello) (2).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/slide 2 (outlook icon).png" afterPath="$PROJECT_DIR$/images/Home/slide 2 (outlook icon).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Image/Home/slide1 (windows hello).jpg" afterPath="$PROJECT_DIR$/images/Home/slide1 (windows hello).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Onenote.png" afterPath="$PROJECT_DIR$/images/Onenote.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Websites (Microsoft)/Microsoft Store.html" afterPath="$PROJECT_DIR$/Microsoft Store.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/earth.png" afterPath="$PROJECT_DIR$/images/earth.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fb.png" afterPath="$PROJECT_DIR$/images/fb.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jumbotron.jpg" afterPath="$PROJECT_DIR$/images/jumbotron.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/msCRM.png" afterPath="$PROJECT_DIR$/images/msCRM.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/msStore.png" afterPath="$PROJECT_DIR$/images/msStore.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/office365doanhnghiep.png" afterPath="$PROJECT_DIR$/images/office365doanhnghiep.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/outlook.png" afterPath="$PROJECT_DIR$/images/outlook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/slide1.png" afterPath="$PROJECT_DIR$/images/slide1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/slide2.jpg" afterPath="$PROJECT_DIR$/images/slide2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sway.png" afterPath="$PROJECT_DIR$/images/sway.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vs17.png" afterPath="$PROJECT_DIR$/images/vs17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/w10.png" afterPath="$PROJECT_DIR$/images/w10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mswebhome.html" afterPath="$PROJECT_DIR$/mswebhome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webMS.html" afterPath="$PROJECT_DIR$/webMS.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,11 +47,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="npm.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="npm.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="204">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mswebhome.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mswebhome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Microsoft Store.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Microsoft Store.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,6 +130,10 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miss Lina Le\WebstormProjects\Microsoft-Project" />
+      <recent name="C:\Users\Miss Lina Le\WebstormProjects\Microsoft-Project\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Miss Lina Le\WebstormProjects\Microsoft-Project" />
     </key>
@@ -141,18 +160,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505893766427</updated>
-      <workItem from="1505893770609" duration="71000" />
+      <workItem from="1505893770609" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71000" />
+    <option name="totallyTimeSpent" value="668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -183,8 +201,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mswebhome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Microsoft Store.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
