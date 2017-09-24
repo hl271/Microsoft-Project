@@ -1,115 +1,266 @@
 <!DOCTYPE html>
+<!-- saved from url=(0048)file:///E:/Group3_Project/Microsoft%20Store.html -->
 <html>
-  <head>
-		<title></title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  		<title></title>
 
-		<!-- jQuery library -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  		<meta name="viewport" content="width=device-width, initial-scale=1">
+  		<!-- Latest compiled and minified CSS -->
+  		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-		<!-- Latest compiled JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<style>
-			
-			
-			#main {
-			margin-left: 70px;
-			margin-right: 70px;
-			}
-			
-			#active {
-			font-size: 1.75em;
-			}
-			
-			#signin:hover {
-			color: blue;
-			text-decoration: none;
-			}
-			
-			.navbar.navbar-default {
-			background-color: #fff;
-			border: none;
-			
-			padding-right: 70px;
-			margin-bottom: 0;
-			
-			}
-			
-			
-			.nav.navbar-nav {
-			margin-left: 0;
-			
-			
-			}
-			
-			.btn.btn-default {
-			border-left: none;
-			}
-			
-			.form-control {
-			border-radius: 0;
-			}
-			
-			ul.nav.navbar-nav li a:hover {
-			text-decoration: underline;
-			}
-			
-			ul.nav.navbar-nav li a {
-			color: black;
-			
-			
-			}
-		</style>
+  		<!-- jQuery library -->
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+
+  		<!-- Latest compiled JavaScript -->
+  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  		<link href="Microsoft Store.css" type="text/css" rel="stylesheet">
+  		<style>
+
+
+
+
+  		</style>
   </head>
   <body>
-		
+
 			<!-- Thanh điều hướng chính -->
-			<nav class="navbar navbar-default main-nav"  style="padding-left: 70;">
+			<nav class="navbar navbar-default main-nav">
 				<div class="container-fluid">
 					<!-- Logo -->
 					<div class="navbar-header">
-						<a class="navbar-brand" href="#"><img
-					src="E:\Group 3\Image\Home\icon (microsoft).jpg" height="25" width="auto" style="float: left;"></a>
+						<a class="navbar-brand" href="file:///E:/Group3_Project/Microsoft%20Store.html#"><img src="images\Home\icon (microsoft).jpg" height="25" width="auto" style="float: left; padding-left: 10px;"></a>
 					</div>
 					<!-- Navbar chính -->
-					<ul class="nav navbar-nav">
-						<li><a href="#">Cửa hàng</a></li>
-						<li><a href="#">Sản phẩm</a></li>
-						<li><a href="#">Hỗ trợ</a></li>
+					<ul class="nav navbar-nav mainmenu">
+						<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Cửa hàng</a></li>
+						<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Sản phẩm</a></li>
+						<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Hỗ trợ</a></li>
 					</ul>
 					<!-- Đăng nhập -->
 					<ul class="nav navbar-nav navbar-right">
-						<li><a id="signin" href="#">Đăng nhập</a></li>
+						<li><a id="blue-link" href="file:///E:/Group3_Project/Microsoft%20Store.html#">Đăng nhập</a></li>
 					</ul>
 					<!-- Search and shopping bar -->
 					<form class="navbar-form navbar-right">
 						<div class="input-group">
-							<input type="text" class="form-control" size="30"/>
+							<input type="text" class="form-control" size="20">
 							<div class="input-group-btn">
 								<button class="btn btn-default" type="submit">
 									<i class="glyphicon glyphicon-search"></i>
 								</button>
 							</div>
 						</div>
-						<a href="#"><i class="glyphicon glyphicon-shopping-cart"></i></a>
+						<a href="file:///E:/Group3_Project/Microsoft%20Store.html#"><i class="glyphicon glyphicon-shopping-cart"></i></a>
 					</form>
-										
+
 				</div>
-			</nav>	
+			</nav>
 			<!--Thanh điều hướng phụ -->
-			<nav class="navbar navbar-default secindary-nav" style="padding-left: 70;">
+			<nav class="navbar navbar-default sub-nav">
 				<div class="container-fluid">
 					<ul class="nav navbar-nav">
-						<li><a href="#" id="active">Cửa hàng</a></li>
-						<li><a href="#">Phần mềm và dịch vụ</a></li>
-						<li><a href="#">Trò chơi</a></li>
+						<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#" id="active">Cửa hàng</a></li>
+						<li class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="file:///E:/Group3_Project/Microsoft%20Store.html#">Phần mềm và ứng dụng  <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Office</a></li>
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Office Suites</a></li>
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Tất cả ứng dụng Office</a></li>
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Windows</a></li>
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Ứng dụng cho Windows</a></li>
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Ứng dụng cho điện thoại chạy Windows</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="file:///E:/Group3_Project/Microsoft%20Store.html#">Trò chơi  <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Trò chơi trên Windows</a></li>
+								<li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Trò chơi cho điện thoại chạy Windows</a></li>
+
+							</ul>
+						</li>
 					</ul>
 				</div>
 			</nav>
-				
-		
-  </body>
-</html>
+
+			<!-- Jumbotron-->
+			<div class="container-fluid main-content jumbo">
+				<div class="jumbotron">
+					<img src="images\Trang con 1\Jumbotron.jpg"/>
+          <div class="jumbotron-content">
+            <div>
+              <h2>Nhận lợi ích độc quyền cùng Office 365</h2>
+    					<p>Luôn cập nhật các ứng dụng Office cho tối đa 5 máy Mac hoặc PC, lưu trữ đám mây 1TB và hỗ trợ Microsoft miễn phí</p>
+              <a href="#">MUA OFFICE 365 <span class="glyphicon glyphicon-menu-right"></span></a>
+            </div>
+          </div>
+				</div>
+			</div>
+
+      <!-- Grid 1 -->
+      <div class="container-fluid main-content">
+        <div class="grid">
+          <h2>
+            <span>Tìm mua Office Suites</span>
+            <a href="#" id="blue-link">Hiện tất cả</a>
+          </h2>
+        </div>
+      </div>
+
+      <!-- Grid 2 -->
+      <div class="container-fluid main-content">
+        <div class="grid">
+          <h2>
+            <span>Mua Windows</span>
+            <a href="#" id="blue-link">Hiện tất cả</a>
+          </h2>
+        </div>
+      </div>
+
+      <!-- Grid 3 -->
+      <div class="container-fluid main-content">
+        <div class="grid">
+          <h2>
+            <span>Mua các ứng dụng Office độc lập</span>
+            <a href="#" id="blue-link">Hiện tất cả</a>
+          </h2>
+        </div>
+      </div>
+
+      <!-- Grid 4 -->
+      <div class="container-fluid main-content">
+        <div class="grid">
+          <h2>Tại sao nên mua tại Microsoft Store?</h2>
+          <!-- Grid 4 Content -->
+          <div class="row">
+            <!-- Col 1 -->
+            <div class="col-md-3">
+              <a class="row4" href="#">
+                <img src="images\Trang con 1\grid4-col1.png"/>
+                <h3>Tải xuống phần mềm ngay lập tức</h3>
+                <p>Đừng chờ đợi để được giao sản phẩm. Tất cả phần mềm của chúng tôi đều sẵn sàng để có thể tải xuống ngay lập tức.</p>
+              </a>
+              <a href="#">Tìm hiểu thêm <span class="glyphicon glyphicon-menu-right"></span></a>
+            </div>
+
+
+            <!-- Col 2 -->
+            <div class="col-md-3">
+              <a class="row4" href="#">
+                <img src="images\Trang con 1\grid4-col2.png"/>
+                <h3>Đảm bảo hài lòng</h3>
+                <p>Nếu bạn không hoàn toàn hài lòng, bạn có thể dễ dàng trả lại sản phẩm trong vòng 14 ngày.</p>
+              </a>
+              <a href="#">Tìm hiểu thêm <span class="glyphicon glyphicon-menu-right"></span></a>
+            </div>
+
+
+            <!-- Col 3 -->
+            <div class="col-md-3">
+              <a class="row4" href="#">
+                <img src="images\Trang con 1\grid4-col3.png"/>
+                <h3>Trao đổi với chuyên gia</h3>
+                <p>Nhóm chuyên gia của chúng tôi luôn sẵn sàng trả lời bất kỳ câu hỏi nào của bạn.</p>
+              </a>
+              <a href="#">Liên hệ với chúng tôi <span class="glyphicon glyphicon-menu-right"></span></a>
+            </div>
+
+
+            <!-- Col 4 -->
+            <div class="col-md-3">
+              <a class="row4" href="#">
+                <img src="images\Trang con 1\grid4-col4.png"/>
+                <h3>Truy cập khóa sản phẩm của bạn</h3>
+                <p>Khi bạn mua phần mềm từ chúng tôi, chúng tôi sẽ lưu lại các khóa sản phẩm, do đó bạn luôn biết được nơi cần tìm khóa sản phẩm.</p>
+              </a>
+              <a href="#">Tìm hiểu thêm <span class="glyphicon glyphicon-menu-right"></span></a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <!-- footer-->
+      <footer class="footer">
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-2">
+                      <ul class="list-unstyled">
+                          <li style="font-weight: bold;">Nội dung mới</li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Ứng dụng cho Windows 10 </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Các ứng dụng cho Office style </a></li>
+                      </ul>
+                  </div>
+                  <div class="col-sm-2">
+                      <ul class="list-unstyled">
+                          <li style="font-weight: bold;">Cửa hàng &amp; hỗ trợ</li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Hồ sơ tài khoản </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Trung tâm tải xuống </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Trả lại </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Theo dõi đơn hàng </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Vị trí cửa hàng </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Hỗ trợ </a></li>
+                      </ul>
+                  </div>
+                  <div class="col-sm-2">
+                      <ul class="list-unstyled">
+                          <li style="font-weight: bold;">Giáo dục</li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Microsoft trong giáo dục </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Office cho học sinh </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Office 365 cho trường học</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Ưu đãi dành cho sinh viên &amp; giảng viên</a></li>
+                      </ul>
+                  </div>
+                  <div class="col-sm-2">
+                      <ul class="list-unstyled">
+                          <li style="font-weight: bold;">Doanh nghiệp</li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Microsoft Azure </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Doanh nghiệp </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Sản xuất &amp; tài nguyên</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Dịch vụ tài chính</a></li>
+                      </ul>
+                  </div>
+                  <div class="col-sm-2">
+                      <ul class="list-unstyled">
+                          <li style="font-weight: bold;">Nhà phát triển</li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Microsoft Visual Studio </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Mạng lưới Nhà phát triển của Microsoft </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Technet</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Học viện ảo của Microsoft</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Kênh 9</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Trung tâm Phát triển Office</a></li>
+                      </ul>
+                  </div>
+                  <div class="col-sm-2">
+                      <ul class="list-unstyled">
+                          <li style="font-weight: bold;">Công ty</li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Sự nghiệp </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Giới thiệu về Microsoft </a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Tin tức công ty</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Quyền riêng tư ở Microsoft</a></li>
+                          <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#">Nhà đầu tư </a></li>
+                      </ul>
+                  </div>
+              </div>
+
+              <div class="row">
+                  <a href="file:///E:/Group3_Project/Microsoft%20Store.html#"> <img src="file:///E:/Group3_Project/images/earth.png" height="15" width="15">Tiếng
+                      Việt (Việt Nam)
+                  </a>
+
+                  <ul class="list-inline pull-right">
+                      <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#"> Liên hệ với chúng tôi </a></li>
+                      <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#"> Điều khoản về quyền riêng tư </a></li>
+                      <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#"> Điều khoản sử dụng </a></li>
+                      <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#"> Nhãn hiệu </a></li>
+                      <li><a href="file:///E:/Group3_Project/Microsoft%20Store.html#"> Giới thiệu về quảng cáo của chúng tôi</a></li>
+                      <li>© Microsoft 2017</li>
+                  </ul>
+              </div>
+          </div>
+      </footer>
+
+
+
+</body></html>
